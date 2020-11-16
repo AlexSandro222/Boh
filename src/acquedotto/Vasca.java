@@ -25,6 +25,7 @@ private double contenuto;
      // posso aggiungere la quantita
      this.contenuto=this.contenuto+quantita;
     }else{
+    // stampa messaggiogit 
     System.out.println("volume della vasca superato,quantita impossibile da aggiungere");
     }
     }
